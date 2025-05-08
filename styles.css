@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+#loading {
+      display: none;
+      text-align: center;
+    }
+
+    #error {
+      color: red;
+      text-align: center;
+      display: none;
+    }
+
+
+    img {
+      margin: 10px;
+    }
